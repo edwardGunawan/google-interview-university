@@ -47,8 +47,9 @@ and how they work in case you need to recreate them in an interview
 ### HTML& CSS
 - [ ] [SASS](http://sass-lang.com/guide)
 - [ ] [LESS](http://lesscss.org/)
-- [ ] [BEM and OOCSS (naming convention ](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
-- [ ] [Dribble](https://dribbble.com/)- lots of simple yet nice designs that would be fun to recreate
+- [ ] [BEM and OOCSS (naming convention) ](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
+- [ ] [Dribble](https://dribbble.com/) - lots of simple yet nice designs that would be fun to recreate
+- [ ] [Codepen](http://codepen.io/) - to practice on your layout on CSS
 - [ ] [Medium iterated to their current CSS architecture] (https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 
     or CodePen will works too for doodling or recreating CSS ground
 -  Try code most of your layour without looking at the result till the end
