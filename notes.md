@@ -1,33 +1,33 @@
 ## Mistake from beginning
 ----------------------------
 ### What I should have done for each topic:
-* Watch a couple of hours of videos on the topic, to get the main idea
-* implement the algorithms and data structures
-* make flashcards for important things I should remember about the topic
-* Move one to the next topic
-* review the flash card when you have time
-* after a few days, watch another video about the topic, perhaps 30
+1. Watch a couple of hours of videos on the topic, to get the main idea
+2. implement the algorithms and data structures
+3. make flashcards for important things I should remember about the topic
+4. Move one to the next topic
+5. review the flash card when you have time
+6. after a few days, watch another video about the topic, perhaps 30
 mins or so
-* after another week, watch a video about the topic, maybe same video or shorter
-* keep reviewing flash cards
+7. after another week, watch a video about the topic, maybe same video or shorter
+8. keep reviewing flash cards
 
 
 ## Review Algorithms and Data Structure
 ------------------------------
-* write them down in the paper
-* each one fit one page
-* you don't really need to memorize them, just know the concepts
+1. write them down in the paper
+2. each one fit one page
+3. you don't really need to memorize them, just know the concepts
 and how they work in case you need to recreate them in an interview
 
 
 -----------
 # Important Point
-* Jump through various topic, and get back again the other day.
-* Solve at least 1 algorithm questions
-* Write it down while watching the video.
-* The pattern will be watch movie -- implement algorithm -- (if have the time) 
+- Jump through various topic, and get back again the other day.
+- Solve at least 1 algorithm questions
+- Write it down while watching the video.
+- The pattern will be watch movie -- implement algorithm -- (if have the time) 
  implement a data structure
-* Will be doing thing one day and the other day will be doing front end interview
+- Will be doing thing one day and the other day will be doing front end interview
     questions
 
 
@@ -72,8 +72,28 @@ and how they work in case you need to recreate them in an interview
 
 
 ### Design Patterns
-* provide you with repeatable solutions for common problems
+- provide you with repeatable solutions for common problems
 - [ ] [Decorator](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript)
 - [ ] [Factory](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
 - [ ] [Singleton](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript) 
+- [ ] [The Revealing Module Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [ ] [The Facade Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
+- [ ] [The Observer Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
+- [ ] [MVC](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvc)
+- [ ] [MVP](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvp)
+- [ ] [MVVM](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvvm)
+
+- Asside from JS design pattern, its good to know some JS framework,
+    * You ahve to know when and why frontend team uses frameworks
+    * if you are interviewing for React+Flux or an Angular position, review some of the documentation and architecture of the framwork.
+
+---------------------
+
+## Testing
+- [Mocha] library (https://mochajs.org/)
+
+----------------------
+
+- Java Example of Data Structure: [Sanfoundry](http://www.sanfoundry.com/java-programming-examples-data-structures/)
+- JavaScript interview questions : [Interview Cake](https://www.interviewcake.com/javascript-interview-questions)
 
