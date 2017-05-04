@@ -90,7 +90,7 @@ and how they work in case you need to recreate them in an interview
 ---------------------
 
 ## Testing
-- [Mocha] library (https://mochajs.org/)
+- [Mocha](https://mochajs.org/) Library
 
 ----------------------
 
